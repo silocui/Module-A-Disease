@@ -3,6 +3,17 @@
 This contains a full guide to how to make a new repository, or workspace.
 https://guides.github.com/activities/hello-world/
 
+This is the python guide:
+https://docs.python.org/3/tutorial/
+
+Book we're supposed to read:
+http://eds.a.ebscohost.com/eds/detail/detail?vid=1&sid=625509b6-3af5-4339-bc53-f8478856916e%40sessionmgr4010&bdata=JnNpdGU9ZWRzLWxpdmUmc2NvcGU9c2l0ZQ%3d%3d#AN=lovisa.004878412&db=cat01310a
+
+Schedule and other useful links
+http://home.thep.lu.se/~tobias/FYTN03/Schedule.html
+
+For working on your own I suggest Spyder and Anaconda for downloads. Both should be available from Anaconda site.
+
 All work should be done from the branch called "testversion", and then commited to the master once additions to the code have proven to work. Don't add code directly to the "Master" branch and break anything! This means we have 2 active saved files, and we save our work by Committing.
 
 This readme should contain all the stuff we need to know, and updated as we go along.
