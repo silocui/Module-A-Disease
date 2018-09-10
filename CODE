@@ -1,1 +1,11 @@
+# SIR model
+# Use these <- to make comments Python ignores
 
+
+#Variables
+PopSt=952058 #Stockholm
+PopGo=572779 #Gothenburg
+PopMa=341457 #Malmö
+PopCo=775033 #Copenhagen
+PopAa=273077 #Aarhus
+PopHa=1822445 #Hamburg
